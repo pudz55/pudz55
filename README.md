@@ -1,4 +1,4 @@
-![Header](./C:/Users/Puddi/Downloads/github-header.png)
+![Header](./github-header.png)
 <h1 align="center">Hello There, I'm Prudhvi</h1>
 <h3 align="center">Professional Software Engineer making an impact towards an ingenious Future</h3>
 <img align="right" alt="Coding" width="300" src="https://www.codingwithslinky.com/GIFs/codingDino.gif">
