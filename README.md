@@ -1,6 +1,6 @@
 <h1 align="center">Hello There, I'm Prudhvi</h1>
 <h3 align="center">Professional Software Engineer making an impact towards an ingenious Future</h3>
-
+<img align="right" alt="Coding" width="400" src = "https://www.codingwithslinky.com/GIFs/codingDino.gif">
 - 🌱 I’m currently learning **Tensorflow and AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pudz55](https://github.com/pudz55)
