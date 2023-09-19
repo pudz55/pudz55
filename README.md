@@ -3,7 +3,7 @@
 <h3 align="center">Professional Software Engineer making an impact towards an ingenious Future</h3>
 <img align="right" alt="Coding" width="300" src="https://www.codingwithslinky.com/GIFs/codingDino.gif">
 
-- 🌱 I’m currently learning **Tensorflow and AWS**
+- 🌱 I’m currently learning **Django and AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pudz55](https://github.com/pudz55)
 
