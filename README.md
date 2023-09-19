@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **itsprudhviyadav@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/prudhvigurram55/](https://www.linkedin.com/in/prudhvigurram55/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/pxg55/](https://www.linkedin.com/in/pxg55/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
