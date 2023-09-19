@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pudz55](https://github.com/pudz55)
 
-- 💬 Ask me about **Machine learning**
+- 💬 Ask me about **Automation and the aftermath**
 
 - 📫 How to reach me **itsprudhviyadav@gmail.com**
 
